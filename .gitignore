@@ -1,0 +1,19 @@
+# Ignore gedit temp files
+*~
+
+# Ignore temporary files
+tempfile.txt
+
+# Ignore compressed files
+*.gz
+*.zip
+
+# Ignore log files
+log/*.log
+log/*.log.[0-9]
+
+# Ignore media files
+# Except the mp4 videos of the tours
+assets/photoshop
+assets/videos
+!assets/videos/tour_*.mp4
