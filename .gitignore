@@ -1,6 +1,3 @@
-# Ignore gedit temp files
-*~
-
 # Ignore temporary files
 tempfile.txt
 
